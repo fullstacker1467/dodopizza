@@ -9,7 +9,7 @@ export const Snack = () => {
   async function getApi() {
     try {
       setIsPending(true);
-      const req = await axios.get("http://localhost:3000/data");
+      const req = await axios.get("http://localhost:3000/data?type=snack");
       const res = await req.data;
       setData(res);
       setIsPending(false);
@@ -24,7 +24,7 @@ export const Snack = () => {
   return (
     <section id="snack">
       <div className="container">
-        <h1 className="text-4xl font-bold my-20">Закуски</h1>
+        <h1 className="text-4xl font-bold my-10">Закуски</h1>
         <div>{isPending ? "Loading" : ""}</div>
         <div>{error ? "Product not found!" : ""}</div>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-7">

@@ -9,7 +9,7 @@ export const Combo = () => {
   async function getApi() {
     try {
       setIsPending(true);
-      const req = await axios.get("http://localhost:3000/data");
+      const req = await axios.get("http://localhost:3000/data?type=combo");
       const res = await req.data;
       setData(res);
       setIsPending(false);
@@ -24,7 +24,7 @@ export const Combo = () => {
   return (
     <section id="combo">
       <div className="container">
-        <h1 className="text-4xl font-bold my-20">Комбо</h1>
+        <h1 className="text-4xl font-bold my-10">Комбо</h1>
         {/* <div>{isPending ? "Loading" : ""}</div> */}
         <div>{error ? "Product not found!" : ""}</div>
         <Suspense fallback={<h1 className="text-4xl">Hello..</h1>}>

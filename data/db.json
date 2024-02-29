@@ -6,7 +6,8 @@
       "title": "Комбо на двоих",
       "amount": 1,
       "bought": false,
-      "price": 95000
+      "price": 95000,
+      "type": "combo"
     },
     {
       "id": "1",
@@ -14,7 +15,8 @@
       "title": "2 пиццы и закуска",
       "amount": 1,
       "bought": false,
-      "price": 120000
+      "price": 120000,
+      "type": "combo"
     },
     {
       "id": "2",
@@ -22,7 +24,8 @@
       "title": "Комбо на четверых",
       "amount": 1,
       "bought": false,
-      "price": 145000
+      "price": 145000,
+      "type": "combo"
     },
     {
       "id": "3",
@@ -30,7 +33,8 @@
       "title": "3 пиццы 25 см",
       "amount": 1,
       "bought": false,
-      "price": 135000
+      "price": 135000,
+      "type": "combo"
     },
     {
       "id": "4",
@@ -38,7 +42,8 @@
       "title": "Белая Пепперони",
       "amount": 1,
       "bought": false,
-      "price": 95000
+      "price": 95000,
+      "type": "pizza"
     },
     {
       "id": "5",
@@ -46,7 +51,8 @@
       "title": "Индейка и огурчики",
       "amount": 1,
       "bought": false,
-      "price": 55000
+      "price": 55000,
+      "type": "pizza"
     },
     {
       "id": "6",
@@ -54,7 +60,8 @@
       "title": "Аррива!",
       "amount": 1,
       "bought": false,
-      "price": 55000
+      "price": 55000,
+      "type": "pizza"
     },
     {
       "id": "7",
@@ -62,7 +69,8 @@
       "title": "Чиззи Чеддер",
       "amount": 1,
       "bought": false,
-      "price": 55000
+      "price": 55000,
+      "type": "pizza"
     },
     {
       "id": "8",
@@ -70,7 +78,8 @@
       "title": "Додстер Песто",
       "amount": 1,
       "bought": false,
-      "price": 28000
+      "price": 28000,
+      "type": "snack"
     },
     {
       "id": "9",
@@ -78,7 +87,8 @@
       "title": "Острый Додстер",
       "amount": 1,
       "bought": false,
-      "price": 28000
+      "price": 28000,
+      "type": "snack"
     },
     {
       "id": "10",
@@ -86,7 +96,8 @@
       "title": "Додстер",
       "amount": 1,
       "bought": false,
-      "price": 28000
+      "price": 28000,
+      "type": "snack"
     },
     {
       "id": "11",
@@ -94,7 +105,8 @@
       "title": "Додстер Донар",
       "amount": 1,
       "bought": false,
-      "price": 35000
+      "price": 35000,
+      "type": "snack"
     },
     {
       "id": "12",
@@ -102,7 +114,8 @@
       "title": "Слоеные палочки с ананасами и брусникой",
       "amount": 1,
       "bought": false,
-      "price": 40000
+      "price": 40000,
+      "type": "desert"
     },
     {
       "id": "13",
@@ -110,7 +123,8 @@
       "title": "Рулетики с брусникой",
       "amount": 1,
       "bought": false,
-      "price": 20000
+      "price": 20000,
+      "type": "desert"
     },
     {
       "id": "14",
@@ -118,7 +132,8 @@
       "title": "Рулетики с корицей",
       "amount": 1,
       "bought": false,
-      "price": 10000
+      "price": 10000,
+      "type": "desert"
     },
     {
       "id": "15",
@@ -126,33 +141,37 @@
       "title": "Рулетики с ананасами + Рулетики с брусникой",
       "amount": 1,
       "bought": false,
-      "price": 35000
-    },
-    {
-      "id": "11",
-      "img": "https://dodopizza-a.akamaihd.net/static/Img/Products/bde2e46f96a442aa8df0758a3bdce9a0_366x366.webp",
-      "title": "Додстер Донар",
-      "amount": 1,
-      "bought": false,
-      "price": 35000
-    },
-    {
-      "id": "15",
-      "img": "https://dodopizza-a.akamaihd.net/static/Img/Products/d8514c4b84ff496a8d862d196b5ce65b_366x366.webp",
-      "title": "Рулетики с ананасами + Рулетики с брусникой",
-      "amount": 3,
-      "bought": false,
-      "price": 35000
+      "price": 35000,
+      "type": "desert"
     }
   ],
   "basket": [
     {
-      "id": "3",
-      "img": "https://dodopizza-a.akamaihd.net/static/Img/ComboTemplates/9234d4ce047045669e751e09ddaa3bfc_366x366.webp",
-      "title": "3 пиццы 25 см",
-      "amount": 3,
+      "id": "1",
+      "img": "https://dodopizza-a.akamaihd.net/static/Img/ComboTemplates/11eea3d9448536e9bdf454ca49014b13_366x366.webp",
+      "title": "2 пиццы и закуска",
+      "amount": 1,
       "bought": true,
-      "price": 135000
+      "price": 120000,
+      "type": "combo"
+    },
+    {
+      "id": "0",
+      "img": "https://dodopizza-a.akamaihd.net/static/Img/ComboTemplates/49c2fc8ce681420cbe95718cd4038029_366x366.webp",
+      "title": "Комбо на двоих",
+      "amount": 1,
+      "bought": true,
+      "price": 95000,
+      "type": "combo"
+    },
+    {
+      "id": "2",
+      "img": "https://dodopizza-a.akamaihd.net/static/Img/ComboTemplates/11eea3d9ea1fbc5f99b39fcfe271823e_366x366.webp",
+      "title": "Комбо на четверых",
+      "amount": 1,
+      "bought": true,
+      "price": 145000,
+      "type": "combo"
     }
   ]
 }
