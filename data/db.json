@@ -1,0 +1,158 @@
+{
+  "data": [
+    {
+      "id": "0",
+      "img": "https://dodopizza-a.akamaihd.net/static/Img/ComboTemplates/49c2fc8ce681420cbe95718cd4038029_366x366.webp",
+      "title": "Комбо на двоих",
+      "amount": 1,
+      "bought": false,
+      "price": 95000
+    },
+    {
+      "id": "1",
+      "img": "https://dodopizza-a.akamaihd.net/static/Img/ComboTemplates/11eea3d9448536e9bdf454ca49014b13_366x366.webp",
+      "title": "2 пиццы и закуска",
+      "amount": 1,
+      "bought": false,
+      "price": 120000
+    },
+    {
+      "id": "2",
+      "img": "https://dodopizza-a.akamaihd.net/static/Img/ComboTemplates/11eea3d9ea1fbc5f99b39fcfe271823e_366x366.webp",
+      "title": "Комбо на четверых",
+      "amount": 1,
+      "bought": false,
+      "price": 145000
+    },
+    {
+      "id": "3",
+      "img": "https://dodopizza-a.akamaihd.net/static/Img/ComboTemplates/9234d4ce047045669e751e09ddaa3bfc_366x366.webp",
+      "title": "3 пиццы 25 см",
+      "amount": 1,
+      "bought": false,
+      "price": 135000
+    },
+    {
+      "id": "4",
+      "img": "https://dodopizza-a.akamaihd.net/static/Img/Products/1be8fabd45824fc7b042ccd213c20474_366x366.webp",
+      "title": "Белая Пепперони",
+      "amount": 1,
+      "bought": false,
+      "price": 95000
+    },
+    {
+      "id": "5",
+      "img": "https://dodopizza-a.akamaihd.net/static/Img/Products/c6138a85bee34cb384ef5850be159e40_366x366.webp",
+      "title": "Индейка и огурчики",
+      "amount": 1,
+      "bought": false,
+      "price": 55000
+    },
+    {
+      "id": "6",
+      "img": "https://dodopizza-a.akamaihd.net/static/Img/Products/871d1984b24940a7a2b55bcfb977e37f_366x366.webp",
+      "title": "Аррива!",
+      "amount": 1,
+      "bought": false,
+      "price": 55000
+    },
+    {
+      "id": "7",
+      "img": "https://dodopizza-a.akamaihd.net/static/Img/Products/b677e7d580c94c5384a4c3850978c099_366x366.webp",
+      "title": "Чиззи Чеддер",
+      "amount": 1,
+      "bought": false,
+      "price": 55000
+    },
+    {
+      "id": "8",
+      "img": "https://dodopizza-a.akamaihd.net/static/Img/Products/11eebe73e14cfd519beb4387fa39b83e_366x366.webp",
+      "title": "Додстер Песто",
+      "amount": 1,
+      "bought": false,
+      "price": 28000
+    },
+    {
+      "id": "9",
+      "img": "https://dodopizza-a.akamaihd.net/static/Img/Products/0e438937f27a4438a1d636be0758a910_366x366.webp",
+      "title": "Острый Додстер",
+      "amount": 1,
+      "bought": false,
+      "price": 28000
+    },
+    {
+      "id": "10",
+      "img": "https://dodopizza-a.akamaihd.net/static/Img/Products/11ee895b06da1b4085c0fddefb40b87c_366x366.webp",
+      "title": "Додстер",
+      "amount": 1,
+      "bought": false,
+      "price": 28000
+    },
+    {
+      "id": "11",
+      "img": "https://dodopizza-a.akamaihd.net/static/Img/Products/bde2e46f96a442aa8df0758a3bdce9a0_366x366.webp",
+      "title": "Додстер Донар",
+      "amount": 1,
+      "bought": false,
+      "price": 35000
+    },
+    {
+      "id": "12",
+      "img": "https://dodopizza-a.akamaihd.net/static/Img/Products/4a02a661bf5149938aeb814522f28ec0_366x366.webp",
+      "title": "Слоеные палочки с ананасами и брусникой",
+      "amount": 1,
+      "bought": false,
+      "price": 40000
+    },
+    {
+      "id": "13",
+      "img": "https://dodopizza-a.akamaihd.net/static/Img/Products/ed86bd40bac842cc83704e5a9507f0d1_366x366.webp",
+      "title": "Рулетики с брусникой",
+      "amount": 1,
+      "bought": false,
+      "price": 20000
+    },
+    {
+      "id": "14",
+      "img": "https://dodopizza-a.akamaihd.net/static/Img/Products/11ee89709fb4b89e9c959b44748f9657_366x366.webp",
+      "title": "Рулетики с корицей",
+      "amount": 1,
+      "bought": false,
+      "price": 10000
+    },
+    {
+      "id": "15",
+      "img": "https://dodopizza-a.akamaihd.net/static/Img/Products/d8514c4b84ff496a8d862d196b5ce65b_366x366.webp",
+      "title": "Рулетики с ананасами + Рулетики с брусникой",
+      "amount": 1,
+      "bought": false,
+      "price": 35000
+    },
+    {
+      "id": "11",
+      "img": "https://dodopizza-a.akamaihd.net/static/Img/Products/bde2e46f96a442aa8df0758a3bdce9a0_366x366.webp",
+      "title": "Додстер Донар",
+      "amount": 1,
+      "bought": false,
+      "price": 35000
+    },
+    {
+      "id": "15",
+      "img": "https://dodopizza-a.akamaihd.net/static/Img/Products/d8514c4b84ff496a8d862d196b5ce65b_366x366.webp",
+      "title": "Рулетики с ананасами + Рулетики с брусникой",
+      "amount": 3,
+      "bought": false,
+      "price": 35000
+    }
+  ],
+  "basket": [
+    {
+      "id": "3",
+      "img": "https://dodopizza-a.akamaihd.net/static/Img/ComboTemplates/9234d4ce047045669e751e09ddaa3bfc_366x366.webp",
+      "title": "3 пиццы 25 см",
+      "amount": 3,
+      "bought": true,
+      "price": 135000
+    }
+  ]
+}
